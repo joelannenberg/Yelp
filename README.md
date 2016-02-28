@@ -39,6 +39,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+- Getting the search bar to actually work.
+- Fixing auto layout issues.
 
 ## License
 
